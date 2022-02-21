@@ -12,7 +12,7 @@ résumé du projet:
 
 
 
-Plus de details (copié/collé du cour) :
+Plus de détails (copié/collé du cour) :
 
 
   Spécifications fonctionnelles
